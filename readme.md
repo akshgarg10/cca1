@@ -1,0 +1,2 @@
+- compile the a1 doc
+- split one into two other pracs
